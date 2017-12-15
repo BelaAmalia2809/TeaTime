@@ -1,6 +1,5 @@
 package com.example.android.teatime;
 
-
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
 
